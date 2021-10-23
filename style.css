@@ -1,0 +1,20 @@
+@import "https://cdn.jsdelivr.net/npm/bulma@0.9.3/css/bulma.min.css";
+
+*{
+    margin: 0px;
+    padding: 0px
+}
+.navbar{
+    background-color: #8F2515;
+    color: #16DB0A;
+}
+
+.navbar-item:hover{
+    color:#16DB0A;
+    background-color: #DB1B00;
+}
+.logo-menu img{
+   max-width: 110px;
+   height: auto;
+   
+}
